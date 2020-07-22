@@ -1,9 +1,9 @@
 # Table of Contents 
 ## Projects by Keith Musig
 
-- [Hello-World](../hello-world/readme.md)
-- [Reading Notes](../reading-notes/readme.md)
-- [The Coder's Computer](../reading-notes/coders-computer.md)
-- [First HTML Page](index.html)
-- [Designing HTML Pages](../reading-notes/des-html.md)
-- [Reflections in the Cloud](../reading-notes/refcloud.md)
+- [Reading Notes](https://github.com/musigman/reading-notes/blob/master/README.md)
+- [The Coder's Computer](https://github.com/musigman/reading-notes/blob/master/coders-computer.md)
+- [First HTML Page](https://musigman.github.io/first-html-page/.)
+- [Designing HTML Pages](https://github.com/musigman/reading-notes/blob/master/des-html.md)
+- [Reflections in the Cloud](https://github.com/musigman/reading-notes/blob/master/refcloud.md)
+- [Growth Mindset](https://github.com/musigman/reading-notes/blob/master/reading-notes.md)
