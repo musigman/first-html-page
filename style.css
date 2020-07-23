@@ -1,0 +1,49 @@
+body {
+    background-color: rebeccapurple;
+}
+
+H1 {
+    color: white;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+H3 {
+    color: yellow;
+    opacity: 90%;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+nav > ul > li {
+   
+    display: inline;
+    color: white;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 20px;
+    border: solid white 1px;
+    padding: 10px;
+}
+p {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 30px;
+    }
+    
+#hero {
+     width: 800px;
+
+
+#doggy {
+        width: 100px;   
+}
+
+footer {
+    color: white
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}

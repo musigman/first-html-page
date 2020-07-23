@@ -6,4 +6,7 @@
 - [First HTML Page](https://musigman.github.io/first-html-page/.)
 - [Designing HTML Pages](https://github.com/musigman/reading-notes/blob/master/des-html.md)
 - [Reflections in the Cloud](https://github.com/musigman/reading-notes/blob/master/refcloud.md)
-- [Growth Mindset](https://github.com/musigman/reading-notes/blob/master/reading-notes.md)
+- [Growth Mindset](https://musigman.github.io/reading-notes/)
+- [Designing Web Pages with CSS](X)
+- [Computer Architecture and Logic](X)
+- [Dynamic Web Pages with Javascript](X)
