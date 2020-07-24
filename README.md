@@ -7,6 +7,6 @@
 - [Designing HTML Pages](https://github.com/musigman/reading-notes/blob/master/des-html.md)
 - [Reflections in the Cloud](https://github.com/musigman/reading-notes/blob/master/refcloud.md)
 - [Growth Mindset](https://musigman.github.io/reading-notes/)
-- [Designing Web Pages with CSS](https://github.com/musigman/reading-notes/blob/master/dweb-javascript.md)
+- [Designing Web Pages with CSS](X)
 - [Computer Architecture and Logic](https://github.com/musigman/reading-notes/blob/master/carch-logic.md)
-- [Dynamic Web Pages with Javascript](https://github.com/musigman/reading-notes/blob/master/dweb-javascript.md)
+- [Dynamic Web Pages with Javascript]()
